@@ -79,4 +79,4 @@ python imu_telemetry_gui.py
 **Begüm Aydoğan Çiçin**  
 *Mechatronics Engineer | Embedded Software & Avionics Specialist*  
 * Contact: `aydgnbegm@gmail.com`  
-* [LinkedIn](https://www.linkedin.com/in/begum-aydogan/)
+* [LinkedIn](https://www.linkedin.com/in/begüm-aydoğan-çiçin-a94098201)
